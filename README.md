@@ -1,14 +1,16 @@
 
-Core Java
-	OOPS
-	Collection
-	Multithreading
-	Exception Handling
-	Generics
-	String
+1.Core Java 
+
+	OOPS	
+	Collection	
+	Multithreading		
+	Exception Handling		
+	Generics		
+	String	
 	java 8/11/17/21 new features
 	
-Spring Framework/Spring boot
+2.Spring Framework/Spring boot
+	
 	AOP
 	Spring Core
 	Spring Security
@@ -16,14 +18,46 @@ Spring Framework/Spring boot
 	Spring Data JPA 
 	
 	
-HIbernate
+3.Hibernate 
 
-System Design
+	Prepare all interview questions
 
-LeetCode problem
+4.System Design
 
-Java Coding problem like in java 8
+		Caching
+		Scaling
+		Vertical
+		Horizontal
 
-Docker & Kubernetes
 
-Database
+5.LeetCode problem
+
+		Prepare all interview questions
+
+6.Java Coding problem like in java 8
+
+	Prepare all interview questions
+
+7.Docker & Kubernetes
+
+	Prepare all interview questions
+
+8.Database
+
+	Prepare all interview questions
+
+9.SOLID Principles
+
+	Prepare all interview questions
+
+10.Design Patterns
+
+	Prepare all interview questions
+
+11.Microservice Design Patterns
+
+	Prepare all interview questions
+
+12.Kafka 
+
+	Prepare all interview questions
