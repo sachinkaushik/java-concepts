@@ -13,7 +13,7 @@ Spring Framework/Spring boot
 	Spring Core
 	Spring Security
 	Spring Rest
-	Spring Data JPA
+	Spring Data JPA 
 	
 	
 HIbernate
