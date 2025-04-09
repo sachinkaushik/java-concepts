@@ -28,6 +28,14 @@
 		Scaling
 		Vertical
 		Horizontal
+		Load Balancing
+		Consistent hashing
+		CAP theorem
+		CDN’s
+		Failovers
+		Replication
+		APIs (REST/ gRPC )
+		Polling, Long Polling, and Websockets
 
 
 5.LeetCode problem
