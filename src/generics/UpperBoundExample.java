@@ -2,8 +2,6 @@ package generics;
 
 import java.util.List;
 
-
-
 /*
     1. Upper Bound Wildcard (? extends T)
     Use Case: When you need to read data but not modify the collection.
