@@ -2,7 +2,7 @@ package solid.SRP;
 
 public class Violation {
 }
-public class Invoice {
+class Invoice {
     public void calculateTotal() {
         System.out.println("Calculating total...");
     }
